@@ -6,6 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - My project:
+- todo
 
 <!---
 nicobrl/nicobrl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
